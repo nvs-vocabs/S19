@@ -4,3 +4,8 @@ BODC parameter semantic model physical entity subgroup names
 Controlled vocabulary defining the terms that may be used to qualify a generic physical entity (part of the what theme) in the BODC parameter semantic model.
 
 URL: [https://vocab.nerc.ac.uk/collection/S19/current/](https://vocab.nerc.ac.uk/collection/S19/current/)
+
+## Request for new terms and ways to contribute
+- Requests for a new S19 can be submitted as [regular issues](https://github.com/nvs-vocabs/S19/issues) in this repository or emailed to vocab.services-at-bodc.ac.uk.
+
+- Reporting errors or suggestions for improving content can be also be submitted as above. 
